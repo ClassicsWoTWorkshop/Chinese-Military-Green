@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.37635 0.003 -2.50648</min>
+    <max>1.37635 1.0594 2.50522</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/chinese/Ch15_59_16/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>
