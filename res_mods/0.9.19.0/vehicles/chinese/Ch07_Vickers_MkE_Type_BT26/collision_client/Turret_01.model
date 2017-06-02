@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<materialNames/>
+	<visibilityBox>
+		<min>
+			-0.612244148254 -0.699551544189 -0.622783334255
+			<!--BW_String-->
+		</min>
+		<max>
+			0.620789451599 0.621561431885 0.618629629612
+			<!--BW_String-->
+		</max>
+	</visibilityBox>
+	<nodelessVisual>vehicles/chinese/Ch07_Vickers_MkE_Type_BT26/collision_client/Turret_01</nodelessVisual>
+</root>

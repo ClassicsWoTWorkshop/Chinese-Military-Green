@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<materialNames/>
+	<visibilityBox>
+		<min>
+			-0.4992322214 -0.2912796152 -0.7262441288
+			<!--BW_String-->
+		</min>
+		<max>
+			0.3039077322 0.3206533682 4.421601635
+			<!--BW_String-->
+		</max>
+	</visibilityBox>
+	<nodelessVisual>vehicles/chinese/Ch10_IS2/collision_client/Gun_06</nodelessVisual>
+</root>

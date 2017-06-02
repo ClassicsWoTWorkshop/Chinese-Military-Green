@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<materialNames/>
+	<visibilityBox>
+		<min>
+			-1.278057632 -0.507177887 -3.467847595
+			<!--BW_String-->
+		</min>
+		<max>
+			1.277657776 0.7146336365 3.127548523
+			<!--BW_String-->
+		</max>
+	</visibilityBox>
+	<nodelessVisual>vehicles/chinese/Ch10_IS2/collision_client/Hull</nodelessVisual>
+</root>

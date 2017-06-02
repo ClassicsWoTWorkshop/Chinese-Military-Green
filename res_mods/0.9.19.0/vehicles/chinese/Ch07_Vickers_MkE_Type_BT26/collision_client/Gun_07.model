@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<materialNames/>
+	<visibilityBox>
+		<min>
+			-0.366385498047 -0.203200683594 -1.40168441772
+			<!--BW_String-->
+		</min>
+		<max>
+			0.370123300552 0.220567932129 0.437292747498
+			<!--BW_String-->
+		</max>
+	</visibilityBox>
+	<nodelessVisual>vehicles/chinese/Ch07_Vickers_MkE_Type_BT26/collision_client/Gun_07</nodelessVisual>
+</root>

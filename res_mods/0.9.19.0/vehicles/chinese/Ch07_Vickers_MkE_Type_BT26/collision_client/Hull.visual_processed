@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<node>
+		<identifier>Scene Root</identifier>
+		<transform>
+			<row0>1.000000 0.000000 0.000000</row0>
+			<row1>0.000000 1.000000 0.000000</row1>
+			<row2>0.000000 0.000000 1.000000</row2>
+			<row3>0.000000 0.000000 0.000000</row3>
+		</transform>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+		<node>Scene Root</node>
+		<geometry>
+			<vertices>vertices</vertices>
+			<primitive>indices</primitive>
+			<primitiveGroup>
+				0
+				<material>
+					<identifier>armor_3</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>3</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/armor_3.dds</Texture>
+					</property>
+					<property>
+						doubleSided
+						<Bool>true</Bool>
+					</property>
+				</material>
+				<groupOrigin>0.000000 0.317983 0.201789</groupOrigin>
+			</primitiveGroup>
+			<primitiveGroup>
+				1
+				<material>
+					<identifier>armor_7</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>7</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/armor_7.dds</Texture>
+					</property>
+					<property>
+						doubleSided
+						<Bool>true</Bool>
+					</property>
+				</material>
+				<groupOrigin>0.000000 0.519372 0.005757</groupOrigin>
+			</primitiveGroup>
+			<primitiveGroup>
+				2
+				<material>
+					<identifier>armor_9</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>9</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/armor_9.dds</Texture>
+					</property>
+					<property>
+						doubleSided
+						<Bool>true</Bool>
+					</property>
+				</material>
+				<groupOrigin>-0.212127 0.519372 0.020894</groupOrigin>
+			</primitiveGroup>
+			<primitiveGroup>
+				3
+				<material>
+					<identifier>armor_11</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>11</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/armor_11.dds</Texture>
+					</property>
+					<property>
+						doubleSided
+						<Bool>true</Bool>
+					</property>
+				</material>
+				<groupOrigin>0.482685 0.317983 0.843464</groupOrigin>
+			</primitiveGroup>
+			<primitiveGroup>
+				4
+				<material>
+					<identifier>armor_1</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>1</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/armor_1.dds</Texture>
+					</property>
+					<property>
+						doubleSided
+						<Bool>true</Bool>
+					</property>
+				</material>
+				<groupOrigin>-0.345003 0.317983 0.843464</groupOrigin>
+			</primitiveGroup>
+			<primitiveGroup>
+				5
+				<material>
+					<identifier>armor_5</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>5</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/armor_5.dds</Texture>
+					</property>
+					<property>
+						doubleSided
+						<Bool>true</Bool>
+					</property>
+				</material>
+				<groupOrigin>0.000000 0.066091 -0.044880</groupOrigin>
+			</primitiveGroup>
+			<primitiveGroup>
+				6
+				<material>
+					<identifier>armor_2</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>2</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/armor_2.dds</Texture>
+					</property>
+					<property>
+						doubleSided
+						<Bool>true</Bool>
+					</property>
+				</material>
+				<groupOrigin>0.000000 -0.317181 1.829866</groupOrigin>
+			</primitiveGroup>
+			<primitiveGroup>
+				7
+				<material>
+					<identifier>armor_6</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>6</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/armor_6.dds</Texture>
+					</property>
+					<property>
+						doubleSided
+						<Bool>true</Bool>
+					</property>
+				</material>
+				<groupOrigin>0.000000 -0.197200 -0.044880</groupOrigin>
+			</primitiveGroup>
+			<primitiveGroup>
+				8
+				<material>
+					<identifier>surveyingDevice</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>28</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/surveyingDevice.dds</Texture>
+					</property>
+					<property>
+						doubleSided
+						<Bool>true</Bool>
+					</property>
+				</material>
+				<groupOrigin>0.492990 0.369882 0.723852</groupOrigin>
+			</primitiveGroup>
+			<primitiveGroup>
+				9
+				<material>
+					<identifier>armor_8</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>8</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/armor_8.dds</Texture>
+					</property>
+					<property>
+						doubleSided
+						<Bool>true</Bool>
+					</property>
+				</material>
+				<groupOrigin>0.000000 -0.580472 0.077819</groupOrigin>
+			</primitiveGroup>
+			<primitiveGroup>
+				10
+				<material>
+					<identifier>armor_4</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>4</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/armor_4.dds</Texture>
+					</property>
+					<property>
+						doubleSided
+						<Bool>true</Bool>
+					</property>
+				</material>
+				<groupOrigin>0.000000 -0.314362 -1.796927</groupOrigin>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>-0.827688 -0.580472 -2.091302</min>
+		<max>0.827688 0.519372 2.001542</max>
+	</boundingBox>
+	<geometrySize>4800</geometrySize>
+	<minUVDensity>0.009586</minUVDensity>
+</root>

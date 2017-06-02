@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<node>
+		<identifier>Scene Root</identifier>
+		<transform>
+			<row0>1.000000 0.000000 0.000000</row0>
+			<row1>0.000000 1.000000 0.000000</row1>
+			<row2>0.000000 0.000000 1.000000</row2>
+			<row3>0.000000 0.000000 0.000000</row3>
+		</transform>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+		<node>Scene Root</node>
+		<geometry>
+			<vertices>vertices</vertices>
+			<primitive>indices</primitive>
+			<primitiveGroup>
+				0
+				<material>
+					<identifier>gun</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>25</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/gun.dds</Texture>
+					</property>
+				</material>
+				<groupOrigin>0.000700 -0.020474 0.082947</groupOrigin>
+			</primitiveGroup>
+			<primitiveGroup>
+				1
+				<material>
+					<identifier>armor_4</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>4</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/armor_4.dds</Texture>
+					</property>
+					<property>
+						doubleSided
+						<Bool>true</Bool>
+					</property>
+				</material>
+				<groupOrigin>0.086156 0.009832 0.222474</groupOrigin>
+			</primitiveGroup>
+			<primitiveGroup>
+				2
+				<material>
+					<identifier>armor_3</identifier>
+					<fx>shaders/std_effects/lightonly.fx</fx>
+					<collisionFlags>0</collisionFlags>
+					<materialKind>3</materialKind>
+					<property>
+						diffuseMap
+						<Texture>objects/misc/collisions_mat/armor_3.dds</Texture>
+					</property>
+					<property>
+						doubleSided
+						<Bool>true</Bool>
+					</property>
+				</material>
+				<groupOrigin>0.086156 0.009832 0.245761</groupOrigin>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>-0.061169 -0.232135 -0.399234</min>
+		<max>0.233482 0.251798 0.565128</max>
+	</boundingBox>
+	<geometrySize>9072</geometrySize>
+	<minUVDensity>0.089812</minUVDensity>
+</root>

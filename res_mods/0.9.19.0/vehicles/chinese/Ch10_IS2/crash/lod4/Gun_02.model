@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<tank>true</tank>
+	<materialNames/>
+	<visibilityBox>
+		<min>
+			-0.518244 -0.320019 -1.12294
+			<!--BW_String-->
+		</min>
+		<max>
+			0.362931 0.334069 3.42185
+			<!--BW_String-->
+		</max>
+	</visibilityBox>
+	<nodelessVisual>vehicles/chinese/Ch10_IS2/crash/lod4/Gun_02</nodelessVisual>
+</root>

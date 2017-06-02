@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<materialNames/>
+	<visibilityBox>
+		<min>
+			-1.13695327759 0.0 -2.22737686157
+			<!--BW_String-->
+		</min>
+		<max>
+			1.13695327759 1.16396514893 2.25273895264
+			<!--BW_String-->
+		</max>
+	</visibilityBox>
+	<nodelessVisual>vehicles/chinese/Ch07_Vickers_MkE_Type_BT26/collision_client/Chassis</nodelessVisual>
+</root>
