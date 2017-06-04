@@ -1142,7 +1142,7 @@
 			<primitiveGroup>
 				0
 				<material>
-					<identifier>tank_chassis_01_skinned</identifier>
+					<identifier>tank_wheels_skinned</identifier>
 					<fx>shaders/std_effects/PBS_tank_skinned.fx</fx>
 					<collisionFlags>0</collisionFlags>
 					<materialKind>0</materialKind>
@@ -1241,7 +1241,7 @@
 			<primitiveGroup>
 				0
 				<material>
-					<identifier>tank_chassis_01_skinned</identifier>
+					<identifier>tank_wheels_skinned</identifier>
 					<fx>shaders/std_effects/PBS_tank_skinned.fx</fx>
 					<collisionFlags>0</collisionFlags>
 					<materialKind>0</materialKind>

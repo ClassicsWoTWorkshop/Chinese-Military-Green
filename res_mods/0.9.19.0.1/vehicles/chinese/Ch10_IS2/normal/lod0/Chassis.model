@@ -12,7 +12,5 @@
 		</max>
 	</visibilityBox>
 	<tank>true</tank>
-	<parent>vehicles/chinese/Ch10_IS2/normal/lod1/Chassis</parent>
-	<extent>32</extent>
 	<nodefullVisual>vehicles/chinese/Ch10_IS2/normal/lod0/Chassis</nodefullVisual>
 </root>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<tank>true</tank>
-	<parent>vehicles/chinese/Ch07_Vickers_MkE_Type_BT26/normal/lod1/Chassis</parent>
-	<extent>32</extent>
 	<materialNames/>
 	<visibilityBox>
 		<min>
