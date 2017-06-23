@@ -1,0 +1,10 @@
+<chassis.model>
+  <tank>	true	</tank>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.72723 0.00431931 -3.58515</min>
+    <max>1.72497 1.12598 3.62529</max>
+  </visibilityBox>
+  <nodefullVisual>vehicles/chinese/Ch41_WZ_111_5A/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>
