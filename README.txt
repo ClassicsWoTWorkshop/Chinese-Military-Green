@@ -9,6 +9,8 @@ To install:
 Optional:
 - If you want to add turret decorations from the 113 BO to the standard 113 without the skin (see "PREVIEW-What-this-addon-does.png" in the ADDON folder to... well, see what it does), drag the "scripts" and "vehicles" folders from inside the "ADDON - 113 Turret Decorations from 'Beijing Opera' Edition" folder to <Your WoT Directory\res_mods\<Game Version>\ (example: C:\Games\World_of_Tanks\res_mods\0.9.19.1\).
 
+- If you want to swap the gun model of the 152mm cannon on both the WZ-111G FT & 113G FT (see "PREVIEW-What-this-addon-does.png" in the ADDON folder, you probably get the idea why), drag the "China_TD_T9_10_Gun_Replacements.wotmod" from inside the "ADDON - 152mm gun model replacement for WZ-111G FT & 113G FT (made by Milkym4n)" folder to <Your WoT Directory\mods\<Game Version>\ (example: C:\Games\World_of_Tanks\mods\0.9.20.0\). Note the difference - this one, unlike the previous two, goes to the "mods" folder instead of "res_mods" - it will not work otherwise.
+
 Enjoy!
 
 - FastestClassic
