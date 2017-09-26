@@ -13,4 +13,4 @@ Optional:
 
 Enjoy!
 
-- FastestClassic
+Made by FastestClassic.
