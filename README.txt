@@ -9,7 +9,7 @@ To install:
 Optional:
 - If you want to add turret decorations from the 113 BO to the standard 113 without the skin (see "PREVIEW-What-this-addon-does.png" in the ADDON to see what it does), drag the .wotmod from inside the "ADDON - 113 'Instrumental' (Turret Decorations from 'Beijing Opera' Edition)" folder to <Your WoT Directory\mods\<Game Version>\ (example: C:\Games\World_of_Tanks\mods\1.2.0.1\).
 
-- If you want support for Miruku's T-34-3, 121, and T-54AM remodels, as well as TheFalkonett's WZ-111 remodel, drag the "vehicles" folder from "ADDON - Mod Support" into <Your WoT Directory\res_mods\<Game Version>\ (example: C:\Games\World_of_Tanks\res_mods\1.2.0.1\).
+- If you want support for my Dakka Improvement Project, Miruku's T-34-3, 121, and T-54AM remodels, as well as TheFalkonett's WZ-111 remodel, drag the "vehicles" folder from "ADDON - Mod Support, place in res_mods version folder" into <Your WoT Directory\res_mods\<Game Version>\ (example: C:\Games\World_of_Tanks\res_mods\1.2.0.1\).
 
 Enjoy!
 
